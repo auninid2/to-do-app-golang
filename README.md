@@ -2,15 +2,11 @@
 
 A really simple Todo app implementing CRUD operations, made with React.js (using components from Chakra UI) and Golang with MongoDB as the backend. I built this project mainly to learn and practice how to create a backend API in Go with the net/http package and consume the API from a frontend.
 
----
-
 ## 🎥 Demo
 
 <video width="600" controls>
   <source src="demo.mp4" type="video/mp4">
 </video>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +21,6 @@ A really simple Todo app implementing CRUD operations, made with React.js (using
 - Chakra UI— Component library for modern UI design
 - Axios — For making HTTP requests to the backend
 
----
 
 ## ✨ Features
 
@@ -34,7 +29,7 @@ A really simple Todo app implementing CRUD operations, made with React.js (using
 - Mark todos as completed
 - Save and load todos from MongoDB
 - Toggle between Dark and Light modes
----
+
 ## ⚙️ Setup Instructions
 
 ### **Backend**
