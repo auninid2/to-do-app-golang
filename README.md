@@ -4,9 +4,7 @@ A really simple Todo app implementing CRUD operations, made with React.js (using
 
 ## 🎥 Demo
 
-<video width="600" controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+[![Watch the demo](./demo.gif)](./demo.mp4)
 
 ## 🛠️ Tech Stack
 
